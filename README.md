@@ -6,8 +6,8 @@ A React app showcasing a collection of books using reusable components, built wi
 - **BookCard**: Reusable component to display individual book information.
 
 ## Links
-- **GitHub Repository:** <YOUR GITHUB LINK HERE>
-- **Live Website:** <YOUR DEPLOYMENT LINK HERE>
+- **GitHub Repository:** https://github.com/umarmohammeds95-eng/My-Book-Collection.git
+- **Live Website:** https://lighthearted-mandazi-3256ba.netlify.app
 
 ## Run Locally
 1. Clone the repository
